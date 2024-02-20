@@ -1,1 +1,1 @@
-# SpringBoot-Projects
+# SpringBoot-MiniProjects
